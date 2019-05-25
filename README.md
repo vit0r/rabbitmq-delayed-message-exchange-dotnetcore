@@ -6,7 +6,6 @@
 ### How to use
 
 `
-
  docker-compose up -d --build --force-recreate --remove-orphans
 
 `
@@ -17,25 +16,21 @@
 #### Password => guest
 
 `
-
 cd Receive
 
 `
 
 `
-
 dotnet run
 
 `
 
 `
-
 cd Send
 
 `
 
 `
-
 dotnet run
 
 `
