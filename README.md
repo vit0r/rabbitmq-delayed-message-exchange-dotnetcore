@@ -17,6 +17,11 @@
 `
 cd Receive
 `
+`
+
+`
+dotnet restore
+`
 
 `
 dotnet run
@@ -24,6 +29,10 @@ dotnet run
 
 `
 cd Send
+`
+
+`
+dotnet restore
 `
 
 `
